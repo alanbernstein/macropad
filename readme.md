@@ -7,6 +7,7 @@ started with v7.3.3 on 2022/08/29
 
 https://learn.adafruit.com/adafruit-macropad-rp2040/keypad
 
+https://github.com/prcutler/awesome-macropad
 
 # keys
 https://www.adafruit.com/product/5114
@@ -20,27 +21,42 @@ https://github.com/adafruit/Adafruit_CircuitPython_Display_Text
 # plan
 
 keys:
+
 A B C
+
 D E F
+
 G H I
+
 J K L
 
 ## idea 1
 
 A: USB -> megapanda        (illuminate when active)
+
 B: USB -> macbook          ("")
+
 C: USB -> thinkstation     ("")
 
+
 D: monitor -> megapanda    (illuminate when active)
+
 E: monitor -> macbook      ("")
+
 F: monitor -> thinkstation ("")
 
+
 G: press yubikey           (outputs to the machine selected in ABC row)
+
 H: 
+
 I: beep test
 
+
 J: uplift -> sit
+
 K: uplift -> stand
+
 L:
 
 
